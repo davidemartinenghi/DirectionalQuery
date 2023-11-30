@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4B771C85-26C4-40C3-8508-44E8849918DE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F1A5123-F0AB-40AD-9710-7215E9F94886"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSVmanager/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "434"
+            endingLineNumber = "434"
+            landmarkName = "calcolaSky()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "2F1A5123-F0AB-40AD-9710-7215E9F94886 - e418f2eb9a988196"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSVmanager.calcolaSky() -&gt; ()"
+                  moduleName = "CSVmanager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidemartinenghi/Dropbox%20(DEIB)/Apps/git/CSVmanager/CSVmanager/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "435"
+                  endingLineNumber = "435"
+                  offsetFromSymbolStart = "4100">
+               </Location>
+               <Location
+                  uuid = "2F1A5123-F0AB-40AD-9710-7215E9F94886 - e418f2eb9a9881b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSVmanager.calcolaSky() -&gt; ()"
+                  moduleName = "CSVmanager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidemartinenghi/Dropbox%20(DEIB)/Apps/git/CSVmanager/CSVmanager/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "434"
+                  endingLineNumber = "434"
+                  offsetFromSymbolStart = "3636">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA9C3C2C-1FFF-4C06-9391-98913763848C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSVmanager/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "448"
+            endingLineNumber = "448"
+            landmarkName = "calcolaSky()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "EA9C3C2C-1FFF-4C06-9391-98913763848C - e418f2eb9a98f357"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSVmanager.calcolaSky() -&gt; ()"
+                  moduleName = "CSVmanager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidemartinenghi/Dropbox%20(DEIB)/Apps/git/CSVmanager/CSVmanager/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "7855">
+               </Location>
+               <Location
+                  uuid = "EA9C3C2C-1FFF-4C06-9391-98913763848C - e418f2eb9a98f357"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSVmanager.calcolaSky() -&gt; ()"
+                  moduleName = "CSVmanager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidemartinenghi/Dropbox%20(DEIB)/Apps/git/CSVmanager/CSVmanager/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "5560">
+               </Location>
+               <Location
+                  uuid = "EA9C3C2C-1FFF-4C06-9391-98913763848C - e418f2eb9a98f357"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSVmanager.calcolaSky() -&gt; ()"
+                  moduleName = "CSVmanager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidemartinenghi/Dropbox%20(DEIB)/Apps/git/CSVmanager/CSVmanager/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "5555">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E1550E2-804F-4F18-AB15-E1DF242C2944"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSVmanager/SkyCalculator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "computeDirKViaHeap(k:weights:beta:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BEF3029-E4D2-4786-A700-DB246E7A07D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSVmanager/DatasetManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "315"
+            endingLineNumber = "315"
+            landmarkName = "dataSet(from:with:skipIfWrong:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F649ACC-CA4F-4B96-A6BB-56008373CAEC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSVmanager/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "realExperiment(name:attributes:ks:betas:hard:dedup:invert:normalize:randomW:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "5F649ACC-CA4F-4B96-A6BB-56008373CAEC - c64da1fbca33b9f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSVmanager.betaSmallExperiment(name: Swift.String, attributes: Swift.Array&lt;Swift.String&gt;, ks: Swift.Array&lt;Swift.Int&gt;, hard: Swift.Bool, dedup: Swift.Bool, invert: Swift.Bool, normalize: Swift.Bool, randomW: Swift.Bool) -&gt; ()"
+                  moduleName = "CSVmanager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidemartinenghi/Dropbox%20(DEIB)/Apps/git/CSVmanager/CSVmanager/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "3948">
+               </Location>
+               <Location
+                  uuid = "5F649ACC-CA4F-4B96-A6BB-56008373CAEC - 4daebcee063ea142"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSVmanager.betaSmallExperiment(name: Swift.String, attributes: Swift.Array&lt;Swift.String&gt;, ks: Swift.Array&lt;Swift.Int&gt;, betas: Swift.Array&lt;Swift.Double&gt;, hard: Swift.Bool, dedup: Swift.Bool, invert: Swift.Bool, normalize: Swift.Bool, randomW: Swift.Bool) -&gt; ()"
+                  moduleName = "CSVmanager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidemartinenghi/Dropbox%20(DEIB)/Apps/git/CSVmanager/CSVmanager/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "3968">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "029A9C14-0F72-4448-9D48-4C8B6A7EF594"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSVmanager/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "realExperiment(name:attributes:ks:betas:hard:dedup:invert:normalize:randomW:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "029A9C14-0F72-4448-9D48-4C8B6A7EF594 - c64da1fbca33bddc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSVmanager.betaSmallExperiment(name: Swift.String, attributes: Swift.Array&lt;Swift.String&gt;, ks: Swift.Array&lt;Swift.Int&gt;, hard: Swift.Bool, dedup: Swift.Bool, invert: Swift.Bool, normalize: Swift.Bool, randomW: Swift.Bool) -&gt; ()"
+                  moduleName = "CSVmanager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidemartinenghi/Dropbox%20(DEIB)/Apps/git/CSVmanager/CSVmanager/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "6880">
+               </Location>
+               <Location
+                  uuid = "029A9C14-0F72-4448-9D48-4C8B6A7EF594 - c64da1fbca33bddc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSVmanager.betaSmallExperiment(name: Swift.String, attributes: Swift.Array&lt;Swift.String&gt;, ks: Swift.Array&lt;Swift.Int&gt;, hard: Swift.Bool, dedup: Swift.Bool, invert: Swift.Bool, normalize: Swift.Bool, randomW: Swift.Bool) -&gt; ()"
+                  moduleName = "CSVmanager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidemartinenghi/Dropbox%20(DEIB)/Apps/git/CSVmanager/CSVmanager/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "7156">
+               </Location>
+               <Location
+                  uuid = "029A9C14-0F72-4448-9D48-4C8B6A7EF594 - 4daebcee063ea56c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSVmanager.betaSmallExperiment(name: Swift.String, attributes: Swift.Array&lt;Swift.String&gt;, ks: Swift.Array&lt;Swift.Int&gt;, betas: Swift.Array&lt;Swift.Double&gt;, hard: Swift.Bool, dedup: Swift.Bool, invert: Swift.Bool, normalize: Swift.Bool, randomW: Swift.Bool) -&gt; ()"
+                  moduleName = "CSVmanager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidemartinenghi/Dropbox%20(DEIB)/Apps/git/CSVmanager/CSVmanager/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "7176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
